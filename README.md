@@ -144,6 +144,27 @@ Streamlit Dashboard
      ├── 📋 Raw Data
      └── ℹ️ About Project
 ```
+### Business Problem
+
+ Organizations in the technology industry may have limited visibility into employee mental health, workplace conditions, and the availability or awareness of mental health support. Survey data can contain valuable information, but without proper analysis, it is difficult for HR teams and management to identify patterns and understand which workplace factors are associated with employees' mental health experiences.
+
+The business problem is therefore to analyze employee survey data and convert it into meaningful insights about mental health, workplace factors, and employee support, so organizations can better understand areas that may require attention.
+
+
+## Business Use Case
+
+* The project analyzes employee survey data to understand mental health conditions and workplace factors in the technology industry. 
+* Organizations can use the insights to identify patterns related to mental health, work environment, work-life balance, and employee support.
+
+* The dashboard helps HR teams and management identify areas of concern, understand employee needs, and make data-driven decisions about workplace policies and employee-support initiatives.
+
+## Business Objectives
+* Understand employee mental health trends: Analyze the prevalence of mental health challenges among employees.
+* Identify workplace factors :Examine how factors such as work interference, remote work,  company size, and workplace support relate to mental health responses.
+* Evaluate employee support systems :Understand awareness and availability of mental health benefits and workplace resources.
+* Analyze demographic patterns : Explore differences across age, gender, employment characteristics, and other available demographic variables.
+* Support HR decision-making: Provide data-driven insights that can help HR teams improve employee-support programs and workplace policies.
+* Identify areas requiring attention : Highlight patterns that may indicate where additional awareness, resources, or organizational support could be considered.
 
 ---
 
